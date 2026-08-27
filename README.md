@@ -33,5 +33,12 @@ python main.py
 ✓ Proper tensor preprocessing  
 ✓ Cyberpunk HUD design  
 
+## Sample Images
+
+To test the system:
+1. Add your own image files to the `test/` folder
+2. Run `python select_and_test.py`
+3. Select an image from `test/` folder
+
 ## 📧 Contact
 chirag.connect72@gmail.com
